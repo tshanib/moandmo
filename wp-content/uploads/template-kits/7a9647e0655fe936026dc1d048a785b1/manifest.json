@@ -1,0 +1,1643 @@
+{
+    "manifest_version": "1.0.17",
+    "title": "Sovy - Restaurant Elementor Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home - Style 1",
+            "screenshot": "screenshots\/home-style-1.jpg",
+            "source": "templates\/home-style-1.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/sovy\/template-kit\/home-style-1\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home - Style 2",
+            "screenshot": "screenshots\/home-style-2.jpg",
+            "source": "templates\/home-style-2.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/sovy\/template-kit\/home-style-2\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Gallery",
+            "screenshot": "screenshots\/gallery.jpg",
+            "source": "templates\/gallery.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/sovy\/template-kit\/gallery\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Metform Reservation 2",
+            "screenshot": "screenshots\/metform-reservation-2.jpg",
+            "source": "templates\/metform-reservation-2.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/sovy\/template-kit\/metform-reservation-2\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Reservation - Style 2",
+            "screenshot": "screenshots\/reservation-style-2.jpg",
+            "source": "templates\/reservation-style-2.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/sovy\/template-kit\/reservation-style-2\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Metform Reservation 1",
+            "screenshot": "screenshots\/metform-reservation-1.jpg",
+            "source": "templates\/metform-reservation-1.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/sovy\/template-kit\/metform-reservation-1\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Reservation - Style 1",
+            "screenshot": "screenshots\/reservation-style-1.jpg",
+            "source": "templates\/reservation-style-1.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/sovy\/template-kit\/reservation-style-1\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Metform Contact",
+            "screenshot": "screenshots\/metform-contact.jpg",
+            "source": "templates\/metform-contact.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/sovy\/template-kit\/metform-contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact Us",
+            "screenshot": "screenshots\/contact-us.jpg",
+            "source": "templates\/contact-us.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/sovy\/template-kit\/contact-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "404 Page",
+            "screenshot": "screenshots\/404-page.jpg",
+            "source": "templates\/404-page.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/sovy\/template-kit\/404-page\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Services",
+            "screenshot": "screenshots\/services.jpg",
+            "source": "templates\/services.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/sovy\/template-kit\/services\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Our Chef",
+            "screenshot": "screenshots\/our-chef.jpg",
+            "source": "templates\/our-chef.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/sovy\/template-kit\/our-chef\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Menu - Style 2",
+            "screenshot": "screenshots\/menu-style-2.jpg",
+            "source": "templates\/menu-style-2.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/sovy\/template-kit\/menu-style-2\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Menu - Style 1",
+            "screenshot": "screenshots\/menu-style-1.jpg",
+            "source": "templates\/menu-style-1.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/sovy\/template-kit\/menu-style-1\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About Us",
+            "screenshot": "screenshots\/about-us.jpg",
+            "source": "templates\/about-us.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/sovy\/template-kit\/about-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/sovy\/template-kit\/header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/sovy\/template-kit\/footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "ElementsKit Lite",
+            "version": "2.0.9.3",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Essential Addons for Elementor",
+            "version": "4.3.7",
+            "file": "essential-addons-for-elementor-lite\/essential_adons_elementor.php",
+            "author": "WPDeveloper"
+        },
+        {
+            "name": "JetSticky For Elementor",
+            "version": "1.0.1",
+            "file": "jetsticky-for-elementor\/jetsticky-for-elementor.php",
+            "author": "Crocoblock"
+        },
+        {
+            "name": "MetForm",
+            "version": "1.3.12",
+            "file": "metform\/metform.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Elementor",
+            "version": "3.0.14",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "bg-kitchen-wood.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/sovy\/wp-content\/uploads\/sites\/19\/2020\/12\/bg-kitchen-wood-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-style-1.json",
+                    "name": "Home - Style 1"
+                }
+            ],
+            "filesize": 218742,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/kitchen-ready-mockup-vol-1-E2FDYX"
+        },
+        {
+            "filename": "Thyme-Leaves@2x.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/sovy\/wp-content\/uploads\/sites\/19\/2020\/12\/Thyme-Leaves@2x.png",
+            "templates": [
+                {
+                    "source": "templates\/home-style-1.json",
+                    "name": "Home - Style 1"
+                }
+            ],
+            "filesize": 25566,
+            "dimensions": [
+                499,
+                514
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/kitchen-ready-mockup-vol-1-E2FDYX"
+        },
+        {
+            "filename": "img-hero-1@2x.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/sovy\/wp-content\/uploads\/sites\/19\/2020\/12\/img-hero-1@2x-600x408.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-style-1.json",
+                    "name": "Home - Style 1"
+                }
+            ],
+            "filesize": 502637,
+            "dimensions": [
+                956,
+                650
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/SEFR62Upnqw"
+        },
+        {
+            "filename": "img-hero-2@2x.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/sovy\/wp-content\/uploads\/sites\/19\/2020\/12\/img-hero-2@2x.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-style-1.json",
+                    "name": "Home - Style 1"
+                }
+            ],
+            "filesize": 155014,
+            "dimensions": [
+                373,
+                650
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PXNS7Z3"
+        },
+        {
+            "filename": "bg-thymee3@2x.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/sovy\/wp-content\/uploads\/sites\/19\/2020\/12\/bg-thymee3@2x-600x268.png",
+            "templates": [
+                {
+                    "source": "templates\/home-style-1.json",
+                    "name": "Home - Style 1"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 151986,
+            "dimensions": [
+                1920,
+                859
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/kitchen-ready-mockup-vol-1-E2FDYX"
+        },
+        {
+            "filename": "our-story-bg1@2x.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/sovy\/wp-content\/uploads\/sites\/19\/2020\/12\/our-story-bg1@2x-600x267.png",
+            "templates": [
+                {
+                    "source": "templates\/home-style-1.json",
+                    "name": "Home - Style 1"
+                }
+            ],
+            "filesize": 321497,
+            "dimensions": [
+                1920,
+                855
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-HFQGVVY"
+        },
+        {
+            "filename": "our-story-rev1@2x.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/sovy\/wp-content\/uploads\/sites\/19\/2020\/12\/our-story-rev1@2x.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-style-1.json",
+                    "name": "Home - Style 1"
+                }
+            ],
+            "filesize": 363361,
+            "dimensions": [
+                485,
+                485
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-AYHE8KZ"
+        },
+        {
+            "filename": "special-menu1@2x.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/sovy\/wp-content\/uploads\/sites\/19\/2020\/11\/special-menu1@2x-600x336.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-style-1.json",
+                    "name": "Home - Style 1"
+                }
+            ],
+            "filesize": 497355,
+            "dimensions": [
+                758,
+                425
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-2EUK4M3"
+        },
+        {
+            "filename": "special-menu-3@2x.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/sovy\/wp-content\/uploads\/sites\/19\/2020\/11\/special-menu-3@2x.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-style-1.json",
+                    "name": "Home - Style 1"
+                }
+            ],
+            "filesize": 114219,
+            "dimensions": [
+                260,
+                285
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-UYGQVTW"
+        },
+        {
+            "filename": "special-menu-2@2x.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/sovy\/wp-content\/uploads\/sites\/19\/2020\/11\/special-menu-2@2x.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-style-1.json",
+                    "name": "Home - Style 1"
+                }
+            ],
+            "filesize": 221701,
+            "dimensions": [
+                475,
+                285
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-F5LDUBV"
+        },
+        {
+            "filename": "close-up-of-a-cutting-a-fillet-steak-food-photography-recipe-idea.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/sovy\/wp-content\/uploads\/sites\/19\/2020\/11\/close-up-of-a-cutting-a-fillet-steak-food-photography-recipe-idea-600x404.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-style-1.json",
+                    "name": "Home - Style 1"
+                }
+            ],
+            "filesize": 437558,
+            "dimensions": [
+                2000,
+                1348
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PD4XF3R"
+        },
+        {
+            "filename": "freshhhh-rev2@2x.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/sovy\/wp-content\/uploads\/sites\/19\/2020\/12\/freshhhh-rev2@2x-600x538.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-style-1.json",
+                    "name": "Home - Style 1"
+                }
+            ],
+            "filesize": 63482,
+            "dimensions": [
+                669,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-2EUK4M3"
+        },
+        {
+            "filename": "BASIL-v2.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/sovy\/wp-content\/uploads\/sites\/19\/2020\/12\/BASIL-v2.png",
+            "templates": [
+                {
+                    "source": "templates\/home-style-1.json",
+                    "name": "Home - Style 1"
+                },
+                {
+                    "source": "templates\/home-style-2.json",
+                    "name": "Home - Style 2"
+                }
+            ],
+            "filesize": 102530,
+            "dimensions": [
+                497,
+                519
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/kitchen-ready-mockup-vol-1-E2FDYX"
+        },
+        {
+            "filename": "rosemary-item@2x.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/sovy\/wp-content\/uploads\/sites\/19\/2020\/12\/rosemary-item@2x.png",
+            "templates": [
+                {
+                    "source": "templates\/home-style-1.json",
+                    "name": "Home - Style 1"
+                }
+            ],
+            "filesize": 103389,
+            "dimensions": [
+                463,
+                433
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/kitchen-ready-mockup-vol-3-ZEUG4G\/"
+        },
+        {
+            "filename": "friends-sits-in-the-restaurant-with-beautiful-fireplace-in-it.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/sovy\/wp-content\/uploads\/sites\/19\/2020\/11\/friends-sits-in-the-restaurant-with-beautiful-fireplace-in-it-600x401.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-style-1.json",
+                    "name": "Home - Style 1"
+                },
+                {
+                    "source": "templates\/reservation-style-2.json",
+                    "name": "Reservation - Style 2"
+                },
+                {
+                    "source": "templates\/reservation-style-1.json",
+                    "name": "Reservation - Style 1"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 291972,
+            "dimensions": [
+                2000,
+                1335
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-JZLKV5W"
+        },
+        {
+            "filename": "appetizer@2x.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/sovy\/wp-content\/uploads\/sites\/19\/2020\/11\/appetizer@2x.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-style-1.json",
+                    "name": "Home - Style 1"
+                },
+                {
+                    "source": "templates\/home-style-2.json",
+                    "name": "Home - Style 2"
+                }
+            ],
+            "filesize": 436596,
+            "dimensions": [
+                500,
+                650
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/JyNjL71DIN8"
+        },
+        {
+            "filename": "menu-dish1@2x.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/sovy\/wp-content\/uploads\/sites\/19\/2020\/11\/menu-dish1@2x.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-style-1.json",
+                    "name": "Home - Style 1"
+                },
+                {
+                    "source": "templates\/home-style-2.json",
+                    "name": "Home - Style 2"
+                }
+            ],
+            "filesize": 493848,
+            "dimensions": [
+                500,
+                650
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PP5WWS8"
+        },
+        {
+            "filename": "menu-dessert@2x.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/sovy\/wp-content\/uploads\/sites\/19\/2020\/11\/menu-dessert@2x.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-style-1.json",
+                    "name": "Home - Style 1"
+                },
+                {
+                    "source": "templates\/home-style-2.json",
+                    "name": "Home - Style 2"
+                }
+            ],
+            "filesize": 435250,
+            "dimensions": [
+                500,
+                650
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PZNMELR"
+        },
+        {
+            "filename": "interior-view-ofa-city-restaurant--e1606874506841.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/sovy\/wp-content\/uploads\/sites\/19\/2020\/11\/interior-view-ofa-city-restaurant--600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-style-1.json",
+                    "name": "Home - Style 1"
+                },
+                {
+                    "source": "templates\/home-style-2.json",
+                    "name": "Home - Style 2"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/reservation-style-2.json",
+                    "name": "Reservation - Style 2"
+                },
+                {
+                    "source": "templates\/reservation-style-1.json",
+                    "name": "Reservation - Style 1"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/our-chef.json",
+                    "name": "Our Chef"
+                },
+                {
+                    "source": "templates\/menu-style-2.json",
+                    "name": "Menu - Style 2"
+                },
+                {
+                    "source": "templates\/menu-style-1.json",
+                    "name": "Menu - Style 1"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 350741,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PTWGQXH"
+        },
+        {
+            "filename": "grilled-pork-slices-on-pan-1.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/sovy\/wp-content\/uploads\/sites\/19\/2020\/11\/grilled-pork-slices-on-pan-1-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-style-2.json",
+                    "name": "Home - Style 2"
+                }
+            ],
+            "filesize": 450941,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-H74HVUY"
+        },
+        {
+            "filename": "grilled-sliced-beef-steak-e1606874561446.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/sovy\/wp-content\/uploads\/sites\/19\/2020\/11\/grilled-sliced-beef-steak-e1606874561446-600x401.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-style-2.json",
+                    "name": "Home - Style 2"
+                }
+            ],
+            "filesize": 440000,
+            "dimensions": [
+                1920,
+                1282
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PMCRMUE"
+        },
+        {
+            "filename": "pork-meat-grilled-steak-on-black-background-top-view-1-e1606874648862.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/sovy\/wp-content\/uploads\/sites\/19\/2020\/11\/pork-meat-grilled-steak-on-black-background-top-view-1-e1606874648862-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-style-2.json",
+                    "name": "Home - Style 2"
+                }
+            ],
+            "filesize": 449019,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-P6W9ERP"
+        },
+        {
+            "filename": "mulled-wine-from-red-and-white-wine-and-hot-mulled-cider.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/sovy\/wp-content\/uploads\/sites\/19\/2020\/11\/mulled-wine-from-red-and-white-wine-and-hot-mulled-cider-600x395.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-style-2.json",
+                    "name": "Home - Style 2"
+                }
+            ],
+            "filesize": 323949,
+            "dimensions": [
+                2000,
+                1318
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-J9UY7G6"
+        },
+        {
+            "filename": "about-us-home2-d@2x.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/sovy\/wp-content\/uploads\/sites\/19\/2020\/11\/about-us-home2-d@2x.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-style-2.json",
+                    "name": "Home - Style 2"
+                }
+            ],
+            "filesize": 359916,
+            "dimensions": [
+                280,
+                701
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-LDRG4BM"
+        },
+        {
+            "filename": "about-us-home2@2x.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/sovy\/wp-content\/uploads\/sites\/19\/2020\/11\/about-us-home2@2x.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-style-2.json",
+                    "name": "Home - Style 2"
+                }
+            ],
+            "filesize": 46976,
+            "dimensions": [
+                514,
+                701
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PD4XF3R"
+        },
+        {
+            "filename": "rosemoary@2x.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/sovy\/wp-content\/uploads\/sites\/19\/2020\/12\/rosemoary@2x.png",
+            "templates": [
+                {
+                    "source": "templates\/home-style-2.json",
+                    "name": "Home - Style 2"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 122629,
+            "dimensions": [
+                507,
+                474
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/kitchen-ready-mockup-vol-3-ZEUG4G\/"
+        },
+        {
+            "filename": "friends-all-together-at-restaurant-having-meal.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/sovy\/wp-content\/uploads\/sites\/19\/2020\/11\/friends-all-together-at-restaurant-having-meal-600x401.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-style-2.json",
+                    "name": "Home - Style 2"
+                }
+            ],
+            "filesize": 494841,
+            "dimensions": [
+                2000,
+                1335
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PC9MSJ5"
+        },
+        {
+            "filename": "video@2x.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/sovy\/wp-content\/uploads\/sites\/19\/2020\/11\/video@2x-600x443.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-style-2.json",
+                    "name": "Home - Style 2"
+                }
+            ],
+            "filesize": 75093,
+            "dimensions": [
+                888,
+                655
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-LC8PN89"
+        },
+        {
+            "filename": "chili-pepper-rev1@2x.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/sovy\/wp-content\/uploads\/sites\/19\/2020\/12\/chili-pepper-rev1@2x.png",
+            "templates": [
+                {
+                    "source": "templates\/home-style-2.json",
+                    "name": "Home - Style 2"
+                }
+            ],
+            "filesize": 55287,
+            "dimensions": [
+                411,
+                347
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/kitchen-ready-mockup-vol-3-ZEUG4G\/"
+        },
+        {
+            "filename": "chefaax.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/sovy\/wp-content\/uploads\/sites\/19\/2020\/11\/chefaax-600x632.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-style-2.json",
+                    "name": "Home - Style 2"
+                },
+                {
+                    "source": "templates\/our-chef.json",
+                    "name": "Our Chef"
+                }
+            ],
+            "filesize": 53201,
+            "dimensions": [
+                687,
+                724
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-9Y8LTDP"
+        },
+        {
+            "filename": "herooqq11@2x.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/sovy\/wp-content\/uploads\/sites\/19\/2020\/11\/herooqq11@2x-600x329.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/reservation-style-2.json",
+                    "name": "Reservation - Style 2"
+                },
+                {
+                    "source": "templates\/reservation-style-1.json",
+                    "name": "Reservation - Style 1"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/our-chef.json",
+                    "name": "Our Chef"
+                },
+                {
+                    "source": "templates\/menu-style-2.json",
+                    "name": "Menu - Style 2"
+                },
+                {
+                    "source": "templates\/menu-style-1.json",
+                    "name": "Menu - Style 1"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 353232,
+            "dimensions": [
+                1920,
+                1053
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PG46GQQ"
+        },
+        {
+            "filename": "gallery10.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/sovy\/wp-content\/uploads\/sites\/19\/2020\/12\/gallery10-600x437.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 145391,
+            "dimensions": [
+                1000,
+                729
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-WW8FHT6"
+        },
+        {
+            "filename": "gallery5.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/sovy\/wp-content\/uploads\/sites\/19\/2020\/12\/gallery5-600x437.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 147408,
+            "dimensions": [
+                1000,
+                729
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-XHS43KY"
+        },
+        {
+            "filename": "gallery1.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/sovy\/wp-content\/uploads\/sites\/19\/2020\/12\/gallery1-600x437.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 163017,
+            "dimensions": [
+                1000,
+                729
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-EGTAJWP"
+        },
+        {
+            "filename": "gallery9.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/sovy\/wp-content\/uploads\/sites\/19\/2020\/12\/gallery9-600x437.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 152408,
+            "dimensions": [
+                1000,
+                729
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-Y3H4D53"
+        },
+        {
+            "filename": "gallery12.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/sovy\/wp-content\/uploads\/sites\/19\/2020\/12\/gallery12-600x437.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 130837,
+            "dimensions": [
+                1000,
+                729
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-A9U4LDE"
+        },
+        {
+            "filename": "gallery4.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/sovy\/wp-content\/uploads\/sites\/19\/2020\/12\/gallery4-600x437.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 319565,
+            "dimensions": [
+                1000,
+                729
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-RY8V7YE"
+        },
+        {
+            "filename": "gallery3.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/sovy\/wp-content\/uploads\/sites\/19\/2020\/12\/gallery3-600x437.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 269056,
+            "dimensions": [
+                1000,
+                729
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-RHYV8VN"
+        },
+        {
+            "filename": "gallery11.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/sovy\/wp-content\/uploads\/sites\/19\/2020\/12\/gallery11-600x437.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 109271,
+            "dimensions": [
+                1000,
+                729
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PZQF9QF"
+        },
+        {
+            "filename": "gallery6.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/sovy\/wp-content\/uploads\/sites\/19\/2020\/12\/gallery6-600x437.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 275513,
+            "dimensions": [
+                1000,
+                729
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PHMT8KV"
+        },
+        {
+            "filename": "Gallery2.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/sovy\/wp-content\/uploads\/sites\/19\/2020\/12\/Gallery2-600x437.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 220977,
+            "dimensions": [
+                1000,
+                729
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-7K3XYSP"
+        },
+        {
+            "filename": "gallery8.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/sovy\/wp-content\/uploads\/sites\/19\/2020\/12\/gallery8-600x437.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 177963,
+            "dimensions": [
+                1000,
+                729
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PFYVUNT"
+        },
+        {
+            "filename": "gallery78.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/sovy\/wp-content\/uploads\/sites\/19\/2020\/12\/gallery78-600x437.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 158003,
+            "dimensions": [
+                1000,
+                729
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-4X8T2H6"
+        },
+        {
+            "filename": "family-friends-having-nice-time-in-beautiful-luxury-modern-restaurant.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/sovy\/wp-content\/uploads\/sites\/19\/2020\/11\/family-friends-having-nice-time-in-beautiful-luxury-modern-restaurant-600x401.jpg",
+            "templates": [
+                {
+                    "source": "templates\/reservation-style-2.json",
+                    "name": "Reservation - Style 2"
+                },
+                {
+                    "source": "templates\/reservation-style-1.json",
+                    "name": "Reservation - Style 1"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 424919,
+            "dimensions": [
+                2000,
+                1335
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-WNPTRR7"
+        },
+        {
+            "filename": "reserve-imgg-1@2x.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/sovy\/wp-content\/uploads\/sites\/19\/2020\/11\/reserve-imgg-1@2x.jpg",
+            "templates": [
+                {
+                    "source": "templates\/reservation-style-1.json",
+                    "name": "Reservation - Style 1"
+                }
+            ],
+            "filesize": 482417,
+            "dimensions": [
+                500,
+                700
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PC9MSJ5"
+        },
+        {
+            "filename": "waiting-for-guests-e1606876534642.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/sovy\/wp-content\/uploads\/sites\/19\/2020\/11\/waiting-for-guests-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/404-page.json",
+                    "name": "404 Page"
+                }
+            ],
+            "filesize": 409546,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-7K3XYSP"
+        },
+        {
+            "filename": "404-page@2x.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/sovy\/wp-content\/uploads\/sites\/19\/2020\/11\/404-page@2x-600x468.png",
+            "templates": [
+                {
+                    "source": "templates\/404-page.json",
+                    "name": "404 Page"
+                }
+            ],
+            "filesize": 216120,
+            "dimensions": [
+                1180,
+                921
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-MZNS8PX"
+        },
+        {
+            "filename": "delivery-food@2x.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/sovy\/wp-content\/uploads\/sites\/19\/2020\/11\/delivery-food@2x-600x543.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 498868,
+            "dimensions": [
+                724,
+                655
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-FK2LNU4"
+        },
+        {
+            "filename": "green-pepper-e1607410494951.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/sovy\/wp-content\/uploads\/sites\/19\/2020\/12\/green-pepper-e1607410494951.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 155517,
+            "dimensions": [
+                363,
+                490
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/kitchen-ready-mockup-vol-3-ZEUG4G\/"
+        },
+        {
+            "filename": "bg-services-2@2x.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/sovy\/wp-content\/uploads\/sites\/19\/2020\/12\/bg-services-2@2x-600x267.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 330541,
+            "dimensions": [
+                1920,
+                855
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-B4REJ5B"
+        },
+        {
+            "filename": "black1.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/sovy\/wp-content\/uploads\/sites\/19\/2020\/12\/black1-600x720.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 14223,
+            "dimensions": [
+                768,
+                922
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/templatekit.jegtheme.com\/sovy\/"
+        },
+        {
+            "filename": "food-catering1b@2x.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/sovy\/wp-content\/uploads\/sites\/19\/2020\/11\/food-catering1b@2x.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 318349,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-BXMLPUL"
+        },
+        {
+            "filename": "Maynard-Peters-signature@2x.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/sovy\/wp-content\/uploads\/sites\/19\/2020\/11\/Maynard-Peters-signature@2x.png",
+            "templates": [
+                {
+                    "source": "templates\/our-chef.json",
+                    "name": "Our Chef"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 30482,
+            "dimensions": [
+                501,
+                176
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/templatekit.jegtheme.com\/sovy\/"
+        },
+        {
+            "filename": "chef1@2x.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/sovy\/wp-content\/uploads\/sites\/19\/2020\/11\/chef1@2x.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-chef.json",
+                    "name": "Our Chef"
+                }
+            ],
+            "filesize": 219656,
+            "dimensions": [
+                413,
+                529
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-BMEASJV"
+        },
+        {
+            "filename": "chef3@2x.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/sovy\/wp-content\/uploads\/sites\/19\/2020\/11\/chef3@2x.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-chef.json",
+                    "name": "Our Chef"
+                }
+            ],
+            "filesize": 229104,
+            "dimensions": [
+                413,
+                529
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-APMXBQW"
+        },
+        {
+            "filename": "chef2@2x.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/sovy\/wp-content\/uploads\/sites\/19\/2020\/11\/chef2@2x.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-chef.json",
+                    "name": "Our Chef"
+                }
+            ],
+            "filesize": 220096,
+            "dimensions": [
+                413,
+                529
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-J26SSN6"
+        },
+        {
+            "filename": "menu-appetizer1a@2x-e1606703922179.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/sovy\/wp-content\/uploads\/sites\/19\/2020\/11\/menu-appetizer1a@2x-e1606703922179.jpg",
+            "templates": [
+                {
+                    "source": "templates\/menu-style-2.json",
+                    "name": "Menu - Style 2"
+                }
+            ],
+            "filesize": 92402,
+            "dimensions": [
+                492,
+                816
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-DKVF4B2"
+        },
+        {
+            "filename": "menu-appetizer2a@2x.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/sovy\/wp-content\/uploads\/sites\/19\/2020\/11\/menu-appetizer2a@2x.jpg",
+            "templates": [
+                {
+                    "source": "templates\/menu-style-2.json",
+                    "name": "Menu - Style 2"
+                }
+            ],
+            "filesize": 227846,
+            "dimensions": [
+                531,
+                362
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-JQVDUN5"
+        },
+        {
+            "filename": "menu-main-dish1@2x-e1606705093208.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/sovy\/wp-content\/uploads\/sites\/19\/2020\/11\/menu-main-dish1@2x-e1606705093208.jpg",
+            "templates": [
+                {
+                    "source": "templates\/menu-style-2.json",
+                    "name": "Menu - Style 2"
+                }
+            ],
+            "filesize": 67745,
+            "dimensions": [
+                492,
+                816
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-24EDAKP"
+        },
+        {
+            "filename": "menu-main-dish2@2x.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/sovy\/wp-content\/uploads\/sites\/19\/2020\/11\/menu-main-dish2@2x.jpg",
+            "templates": [
+                {
+                    "source": "templates\/menu-style-2.json",
+                    "name": "Menu - Style 2"
+                }
+            ],
+            "filesize": 336307,
+            "dimensions": [
+                531,
+                362
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-76ZBGRE"
+        },
+        {
+            "filename": "whiskey-in-the-glasses-on-dark-background.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/sovy\/wp-content\/uploads\/sites\/19\/2020\/12\/whiskey-in-the-glasses-on-dark-background-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/menu-style-1.json",
+                    "name": "Menu - Style 1"
+                }
+            ],
+            "filesize": 342703,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-Y4HWPTS"
+        },
+        {
+            "filename": "beef-steak-tomahawk.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/sovy\/wp-content\/uploads\/sites\/19\/2020\/11\/beef-steak-tomahawk-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/menu-style-1.json",
+                    "name": "Menu - Style 1"
+                }
+            ],
+            "filesize": 490470,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-S3JHQLN"
+        },
+        {
+            "filename": "pavlova-dessert-with-caramel-e1606876755615.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/sovy\/wp-content\/uploads\/sites\/19\/2020\/11\/pavlova-dessert-with-caramel-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/menu-style-1.json",
+                    "name": "Menu - Style 1"
+                }
+            ],
+            "filesize": 367943,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PZNMELR"
+        },
+        {
+            "filename": "bg-our-story1@2x.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/sovy\/wp-content\/uploads\/sites\/19\/2020\/12\/bg-our-story1@2x-600x267.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 196650,
+            "dimensions": [
+                1920,
+                855
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/XB1W7TlTaxQ"
+        },
+        {
+            "filename": "about-us-img@2x@2x.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/sovy\/wp-content\/uploads\/sites\/19\/2020\/12\/about-us-img@2x@2x.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 313140,
+            "dimensions": [
+                485,
+                485
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PD4XF3R"
+        },
+        {
+            "filename": "roasted-shrimps-on-pan-2-e1606876819610.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/sovy\/wp-content\/uploads\/sites\/19\/2020\/11\/roasted-shrimps-on-pan-2-600x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 360167,
+            "dimensions": [
+                1200,
+                1200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-8Z2JY6Y"
+        },
+        {
+            "filename": "SOVY@2x.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/sovy\/wp-content\/uploads\/sites\/19\/2020\/11\/SOVY@2x.png",
+            "templates": [
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                },
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 14895,
+            "dimensions": [
+                536,
+                191
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/templatekit.jegtheme.com\/sovy\/"
+        }
+    ]
+}
